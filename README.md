@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - **f(Y)_Solutions**: For providing the training module.
 - **Contributors**: 
-  - [Anirudh Aravalli]((https://github.com/AnirudhAravalli))
+  - [Anirudh Aravalli](https://github.com/AnirudhAravalli)
  
 ## Conclusion
 
