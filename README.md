@@ -1,5 +1,6 @@
 # Calculator
-
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ## Project Description
 
 This project is a simple, stylish, and minimalist calculator application implemented in Java using Swing for the graphical user interface. It provides basic arithmetic operations in a clean, user-friendly interface.
