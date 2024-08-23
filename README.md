@@ -28,7 +28,7 @@ To run this project, you need to have the following installed on your system:
 
 1. Clone the repository (if you haven't already):
    
-    git clone https://github.com/AnirudhAravalli/Digital-Wallet-Management-System.git
+    git clone https://github.com/AnirudhAravalli/Calculator.git
 
 3. Navigate to the project directory:
    
@@ -54,7 +54,14 @@ To run this project, you need to have the following installed on your system:
 
 ## Screenshots
 
-[Insert screenshots of your calculator application here]
+## Screenshots
+
+![Calculator Interface](Result1.jpeg)
+*Basic interface of the Minimalist Calculator*
+
+![Calculation Example](Result2.jpeg)
+*Example of a calculation being performed*
+
 
 ## Future Improvements
 
