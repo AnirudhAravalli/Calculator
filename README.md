@@ -15,6 +15,7 @@ This project is a simple, stylish, and minimalist calculator application impleme
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 - [Credits](#credits)
+- [Conclusion](#conclusion)
 
 ## Prerequisites
 
