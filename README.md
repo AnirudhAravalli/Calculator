@@ -72,5 +72,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Credits
 
-Developed by Anirudh Aravalli
+- **f(Y)_Solutions**: For providing the training module.
+- **Contributors**: 
+  - [Anirudh Aravalli]((https://github.com/AnirudhAravalli))
+ 
+## Conclusion
+
+Thank you for checking out the Calculator project. Feel free to contribute and provide feedback!
 
