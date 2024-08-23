@@ -16,6 +16,7 @@ This project is a simple, stylish, and minimalist calculator application impleme
 - [License](#license)
 - [Credits](#credits)
 - [Conclusion](#conclusion)
+- [Connect With Me](#connect-with-me)
 
 ## Prerequisites
 
@@ -93,3 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Thank you for checking out the Calculator project. Feel free to contribute and provide feedback!
 
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/anirudh-a-25b28a257/)
+- [GitHub](https://github.com/AnirudhAravalli)
