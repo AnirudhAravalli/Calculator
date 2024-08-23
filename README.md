@@ -28,7 +28,7 @@ To run this project, you need to have the following installed on your system:
 
 1. Clone the repository (if you haven't already):
    
-   git clone https://github.com/AnirudhAravalli/Calculator.git
+    git clone https://github.com/AnirudhAravalli/Digital-Wallet-Management-System.git
 
 3. Navigate to the project directory:
    
