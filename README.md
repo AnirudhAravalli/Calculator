@@ -72,5 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Credits
 
-Developed by [Your Name]
+Developed by Anirudh Aravalli
 
