@@ -28,19 +28,19 @@ To run this project, you need to have the following installed on your system:
 ## How to Install and Run the Project
 
 1. Clone the repository (if you haven't already):
-   
+   ```sh
     git clone https://github.com/AnirudhAravalli/Calculator.git
 
 3. Navigate to the project directory:
-   
+   ```sh
     cd Calculator
 
 5. Compile the Java file:
-   
+   ```sh
     javac Calculator.java
 
 7. Run the application:
-   
+   ```sh
     java Calculator
 
 
